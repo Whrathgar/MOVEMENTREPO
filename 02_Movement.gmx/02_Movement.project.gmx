@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_Paddle</sprite>
+    <sprite>sprites\spr_ball</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_main</background>
@@ -14,6 +15,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_paddle</object>
+    <object>objects\obj_ball</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>
@@ -22,8 +24,8 @@
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
-    <IsTutorial>-1</IsTutorial>
+    <IsTutorial>0</IsTutorial>
     <TutorialName>C:\Users\Alicia\AppData\Local\GameMaker-Studio\tutorials\02_Movement\</TutorialName>
-    <TutorialPage>0</TutorialPage>
+    <TutorialPage>4</TutorialPage>
   </TutorialState>
 </assets>
